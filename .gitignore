@@ -16,3 +16,8 @@ target/
 *.jar
 *.war
 *.ear
+
+/bin
+bin/
+.classpath
+.project
